@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help.chm
+Contents file=helpContents.hhc
+Default Font=Tahoma,9,0
+Default topic=index.htm
+Display compile progress=No
+Language=0x429 Farsi
+Title=—«Â‰„«Ì ”Ì” „ ”Ê‰Êê—«›Ì Ê —«œÌÊ·ÊéÌ
+
+
+[FILES]
+backup.htm
+backup1.htm
+doc.htm
+index.htm
+insurance.htm
+login.htm
+MainPage.htm
+Manage.htm
+Recept1.htm
+Recept2.htm
+result.htm
+SR.htm
+Tariff.htm
+
+[INFOTYPES]
+
